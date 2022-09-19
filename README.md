@@ -1,8 +1,10 @@
 ## **_Olá!_** 👋
 
-- ⚡ Sou só um cara que é herói por diversão.
+-💻 Residência em Software - Serratec
 
+-🛍️ Sou só um cara que é herói por diversão.
 
+<img src="https://c.tenor.com/7rkESXPrQ0YAAAAi/saitama.gif" width="140" height="100"/>
 
 <div align="center">
   <a href="https://github.com/J-Pedro0">
@@ -12,10 +14,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="70" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  
-  
-            
-          
+    
 </div>
 
 ##
