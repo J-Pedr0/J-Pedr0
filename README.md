@@ -1,6 +1,6 @@
 ## **_Olá!_** 👋
 
--💻 Residência em Software - Serratec
+-💻 Residência em Software - Serratec 🌱
 
 -🛍️ Sou só um cara que é herói por diversão.
 
