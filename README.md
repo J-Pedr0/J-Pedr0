@@ -1,8 +1,8 @@
 ## **_Olá!_** 👋
 
--💻 Residência em Software - Serratec 🌱
-
 -🛍️ Sou só um cara que é herói por diversão.
+
+-💻 Residência em Software - Serratec 🌱
 
 <img src="https://c.tenor.com/7rkESXPrQ0YAAAAi/saitama.gif" width="140" height="100"/>
 
