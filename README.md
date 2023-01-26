@@ -2,7 +2,7 @@
 
 -🛍️ Sou só um cara que é herói por diversão.
 
--💻 Residência em Software - Serratec 🌱
+-💻 Residência em Software - SerratecDev 🌱
 
 <img src="https://c.tenor.com/7rkESXPrQ0YAAAAi/saitama.gif" width="140" height="100"/>
 
